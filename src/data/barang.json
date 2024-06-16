@@ -1,0 +1,40 @@
+{
+  "barangs": [
+    {
+      "id": 1,
+      "namaBarang": "Kirito Figure",
+      "jenisBarang": "Action Figure Anime",
+      "hargaBarang": 160000, 
+      "stokBarang": 40
+    },
+    {
+      "id": 2,
+      "namaBarang": "Siesta Figure",
+      "jenisBarang": "Action Figure Anime",
+      "hargaBarang": 200000,
+      "stokBarang": 50
+    },
+    {
+      "id": 3,
+      "namaBarang": "Violet Evergarden Figure",
+      "jenisBarang": "Action Figure Anime",
+      "hargaBarang": 180000,
+      "stokBarang": 30
+    },
+    {
+      
+        "id": 4,
+        "namaBarang": "Muichiro Tokito Figure",
+        "jenisBarang": "Action Figure Anime",
+        "hargaBarang": 220000,
+        "stokBarang": 20
+      },
+    {
+      "id": 5,
+      "namaBarang": "Kamado Tanjiro",
+      "jenisBarang": "Action Figure Anime",
+      "hargaBarang": 250000,
+      "stokBarang": 10
+    }
+  ]
+}

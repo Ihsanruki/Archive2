@@ -1,0 +1,29 @@
+{
+    "transactions": [
+      {
+        "id": 1,
+        "barangId": 1,
+        "itemName": "Kirito Figure",
+        "quantity": 2,
+        "price":  320000,
+        "status": "pending"
+      },
+      {
+        "id": 2,
+        "barangId": 2,
+        "itemName": "Siesta Figure",
+        "quantity": 5,
+        "price": 1000000,
+        "status": "pending"
+      },
+      {
+        "id": 3,
+        "barangId": 3,
+        "itemName": "Violet Evergarden Figure",
+        "quantity": 2,
+        "price": 360000,
+        "status": "pending"
+      }
+    ]
+  }
+  

@@ -1,0 +1,9 @@
+{
+    "roles": [
+      { "role": "user" },
+      { "role": "gudang" },
+      { "role": "kasir" },
+      { "role": "supplier" }
+    ]
+  }
+  
